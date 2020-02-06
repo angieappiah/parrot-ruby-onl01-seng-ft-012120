@@ -6,5 +6,5 @@
 
 def (parrot)
   phrase = "parrot"
-  puts #{"parrot"}
+  puts #{"phrase"}
 end
