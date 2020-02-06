@@ -4,6 +4,6 @@
 #puts?
 
 
-def parrot (string = "squawk!")
-  puts #{"string"}
+def parrot ("squawk!")
+  puts #{"squawk"}
 end
