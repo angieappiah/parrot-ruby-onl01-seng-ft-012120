@@ -1,10 +1,5 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
-#parrot
-#puts?
-
 
 def parrot
-  phrase = 'parrot"
+  phrase = "parrot"
   puts '#{"phrase"}'
 end
