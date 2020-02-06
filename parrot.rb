@@ -4,7 +4,7 @@
 #puts?
 
 
-def parrot
+def (parrot)
   phrase = "parrot"
   puts #{"parrot"}
 end
