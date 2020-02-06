@@ -2,3 +2,8 @@
 # returns the phrase
 #parrot
 #puts?
+
+
+def parrot (string = "squawk!")
+  puts #{"string"}
+end
