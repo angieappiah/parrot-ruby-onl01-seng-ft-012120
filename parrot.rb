@@ -5,6 +5,6 @@
 
 
 def parrot
-  phrase = 'parrot'
-  puts #{"phrase"}
+  phrase = 'parrot"
+  puts '#{"phrase"}'
 end
