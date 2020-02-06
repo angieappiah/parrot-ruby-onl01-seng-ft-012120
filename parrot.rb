@@ -5,5 +5,5 @@
 
 
 def parrot (squawk)
-  puts squawk
+  puts #{"squawk"}
 end
